@@ -62,23 +62,24 @@
   ],
   "images": [
     {
-      "uri": "M_01___Defaultbasecolortexture.png"
+      "uri": "M_02___Defaultbasecolortexture.png"
     }
   ],
   "materials": [
     {
-      "name": "01___Default",
+      "name": "02___Default",
       "pbrMetallicRoughness": {
         "baseColorTexture": {
           "index": 0
         },
-        "metallicFactor": 0.0
+        "metallicFactor": 0.0,
+        "roughnessFactor": 0.0
       }
     }
   ],
   "meshes": [
     {
-      "name": "Box002",
+      "name": "Box001",
       "primitives": [
         {
           "attributes": {
@@ -114,7 +115,7 @@
         1.0
       ],
       "mesh": 0,
-      "name": "Box002"
+      "name": "Box001"
     },
     {
       "children": [
