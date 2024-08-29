@@ -62,12 +62,12 @@
   ],
   "images": [
     {
-      "uri": "M_01___Defaultbasecolortexture.png"
+      "uri": "M_02___Defaultbasecolortexture.png"
     }
   ],
   "materials": [
     {
-      "name": "01___Default",
+      "name": "02___Default",
       "pbrMetallicRoughness": {
         "baseColorTexture": {
           "index": 0
