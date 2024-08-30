@@ -1,0 +1,141 @@
+{
+  "accessors": [
+    {
+      "bufferView": 0,
+      "componentType": 5126,
+      "count": 91432,
+      "max": [
+        525.0,
+        25.0,
+        5.0
+      ],
+      "min": [
+        -25.0,
+        -525.0,
+        0.0
+      ],
+      "type": "VEC3"
+    },
+    {
+      "bufferView": 0,
+      "byteOffset": 12,
+      "componentType": 5126,
+      "count": 91432,
+      "type": "VEC3"
+    },
+    {
+      "bufferView": 1,
+      "componentType": 5125,
+      "count": 254496,
+      "type": "SCALAR"
+    }
+  ],
+  "asset": {
+    "version": "2.0"
+  },
+  "bufferViews": [
+    {
+      "buffer": 0,
+      "byteLength": 2925824,
+      "byteStride": 32,
+      "target": 34962
+    },
+    {
+      "buffer": 0,
+      "byteLength": 1017984,
+      "byteOffset": 2925824,
+      "target": 34963
+    }
+  ],
+  "buffers": [
+    {
+      "byteLength": 3943808,
+      "uri": "11x11_Grid.bin"
+    }
+  ],
+  "materials": [
+    {
+      "name": "M_09___Default",
+      "pbrMetallicRoughness": {
+        "baseColorFactor": [
+          0.011126100085675716,
+          0.011126100085675716,
+          0.011126100085675716,
+          1.0
+        ],
+        "metallicFactor": 0.0,
+        "roughnessFactor": 0.0
+      }
+    }
+  ],
+  "meshes": [
+    {
+      "name": "Object017",
+      "primitives": [
+        {
+          "attributes": {
+            "NORMAL": 1,
+            "POSITION": 0
+          },
+          "indices": 2,
+          "material": 0,
+          "mode": 4
+        }
+      ]
+    }
+  ],
+  "nodes": [
+    {
+      "matrix": [
+        0.01,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0.01,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0.01,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        1.0
+      ],
+      "mesh": 0,
+      "name": "Object017"
+    },
+    {
+      "children": [
+        0
+      ],
+      "matrix": [
+        0.09099998325109482,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        -0.09099998325109482,
+        0.0,
+        0.0,
+        0.09099998325109482,
+        0.0,
+        0.0,
+        -0.22749996185302734,
+        -0.0022749996185302736,
+        -0.22749996185302734,
+        1.0
+      ]
+    }
+  ],
+  "scenes": [
+    {
+      "nodes": [
+        1
+      ]
+    }
+  ]
+}
